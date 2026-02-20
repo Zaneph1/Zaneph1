@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Hui Peng!
 
-<!--
-**Zaneph1/Zaneph1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 我目前的研究方向是 **Large Language Models for Cybersecurity**。
+🌱 我正在探索 **Intrusion Detection** 和 **LLM Alignment** 技术。
+📄 我的最新论文：**TriCoAlign: Cyclic Alignment for Stabilizing LLMs in NIDS**。
+📫 联系我：mcphzane@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C++, SQL
+- **Frameworks**: PyTorch, Transformers, Scikit-learn
+- **Domains**: Network Security, NLP, Deep Learning
+- **Tools**: Git, Docker, Linux
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaneph1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaneph1&layout=compact&theme=radical)
+
+## 🏆 Featured Projects
+
+- **[TriCoAlign](https://github.com/Zaneph1/TriCoAlign)**: A novel framework for stabilizing LLMs in intrusion detection.
+- **[PCF_ID](https://github.com/Zaneph1/PCF_ID)**: Prompt Cast Framework for network security analysis.
+
+## 📬 Connect with Me
+
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow)](https://huggingface.co/PHZane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](您的LinkedIn链接)
