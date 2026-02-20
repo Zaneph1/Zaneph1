@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Hui Peng!
 
-🔭 我目前的研究方向是 **Large Language Models for Cybersecurity**。
-🌱 我正在探索 **Intrusion Detection** 和 **LLM Alignment** 技术。
-📄 我的最新论文：**TriCoAlign: Cyclic Alignment for Stabilizing LLMs in NIDS**。
-📫 联系我：mcphzane@gmail.com
+🔭 我目前的研究方向是 **Large Language Models for Cybersecurity** ，**AI for Healthcare**，**AI for Art**
+🌱 我正在探索 **Intrusion Detection** ， **LLM Alignment**，**AI agent** 技术。
+📫 联系我 or 我们团队：mcphzane@gmail.com
 
 ## 🛠️ Tech Stack & Tools
 
