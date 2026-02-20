@@ -9,7 +9,7 @@
 
 - **Languages**: Python, C++, SQL
 - **Frameworks**: PyTorch, Transformers, Scikit-learn
-- **Domains**: Network Security, NLP, Deep Learning
+- **Domains**: Network Security, NLP, Deep Learning，CV
 - **Tools**: Git, Docker, Linux
 
 ## 📊 GitHub Stats
